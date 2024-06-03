@@ -8,10 +8,10 @@ cucu.l & cucu.y
 * cucu.l contains the regular expressions to tokenise the program. 
 * cucu.y contains the BNF grammar rules to parse the syntax. 
 * Open the terminal in the directory 2022CSB1062 and Enter the following commands to run the program : <
-        1. flex cucu.l 
-        2. bison -d cucu.y 
-        3. gcc cucu.tab.c lex.yy.c -lfl 
-        4. ./a.out 
+1. flex cucu.l 
+2. bison -d cucu.y 
+3. gcc cucu.tab.c lex.yy.c -lfl 
+4. ./a.out 
 * Lexer.txt will be created that will have all the tokens. 
 * Parser.txt will be created that will have the parsed text. 
 * If syntax is incorrect, it will print "Syntax Error" in the terminal. 

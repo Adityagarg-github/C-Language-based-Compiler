@@ -1,6 +1,6 @@
 # C-Language-based-Compiler
-ADITYA GARG
-2022CSB1062
+## ADITYA GARG
+## 2022CSB1062
 
 The zipped folder contains 4 files (apart from the README.txt file) namely cucu.l, cucu.y, Sample1.cu, Sample2.cu 
 
@@ -17,15 +17,13 @@ cucu.l & cucu.y
 * If syntax is incorrect, it will print "Syntax Error" in the terminal. 
 
 
-Sample1.cu<br/>
-
+Sample1.cu
 * This file contains the code which has correct synatx.
 * You can change the file to be opened in the main function in cucu.y file.
 
 Sample2.cu
 * This file contains the code which has incorrect syntax.
 * You can change the file to be opened in the main function in cucu.y file.
-
 * By default Sample1.cu is opened
    
 Assumptions

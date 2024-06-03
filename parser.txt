@@ -1,0 +1,75 @@
+Datatype : int
+Variable : main 
+Datatype : int
+Variable : a 
+Datatype : int
+Variable : b 
+Datatype : int
+Variable : c 
+Datatype : int
+Variable : discriminant 
+Datatype : int
+Variable : root1 
+Datatype : int
+Variable : root2 
+Datatype : int
+Variable : realPart 
+Datatype : int
+Variable : imagPart 
+Variable : discriminant 
+Variable : b 
+Variable : b 
+Arithmetic Operator : * 
+Value : 4 
+Variable : a 
+Arithmetic Operator : * 
+Variable : c 
+Arithmetic Operator : * 
+Arithmetic Operator : - 
+Variable : discriminant 
+Value : 0 
+Comparison Operator : != 
+Variable : root1 
+Variable : b 
+Variable : discriminant 
+Arithmetic Operator : + 
+Value : 2 
+Variable : a 
+Arithmetic Operator : * 
+Arithmetic Operator : / 
+Variable : root2 
+Variable : b 
+Variable : discriminant 
+Arithmetic Operator : - 
+Value : 2 
+Variable : a 
+Arithmetic Operator : * 
+Arithmetic Operator : / 
+Variable : discriminant 
+Value : 0 
+Comparison Operator : == 
+Variable : root2 
+Variable : b 
+Value : 2 
+Variable : a 
+Arithmetic Operator : * 
+Arithmetic Operator : / 
+Variable : realPart 
+Variable : b 
+Value : 2 
+Variable : a 
+Arithmetic Operator : * 
+Arithmetic Operator : / 
+Variable : imagPart 
+Variable : discriminant 
+Value : 2 
+Variable : a 
+Arithmetic Operator : * 
+Arithmetic Operator : / 
+If Condition Ends 
+
+If Condition Ends 
+
+Function Defined above
+
+

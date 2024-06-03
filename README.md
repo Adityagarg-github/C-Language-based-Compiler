@@ -5,7 +5,7 @@ ADITYA GARG
 The zipped folder contains 4 files (apart from the README.txt file) namely cucu.l, cucu.y, Sample1.cu, Sample2.cu 
 
 cucu.l & cucu.y
-> cucu.l contains the regular expressions to tokenise the program. <br/>
+* cucu.l contains the regular expressions to tokenise the program. <br/>
 > cucu.y contains the BNF grammar rules to parse the syntax. <br/>
 > Open the terminal in the directory 2022CSB1062 and Enter the following commands to run the program : <br/>
         1. flex cucu.l <br/>
